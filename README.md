@@ -1,4 +1,4 @@
-OPHRP: Generalizability and Explainable Framework for AI-Driven Influenza Forecasting
+PHWR: Generalizability and Explainable Framework for AI-Driven Influenza Forecasting
 This repository contains the supplementary materials, code structure, and data pipelines used for the study: "Generalizability and Explainable Framework for AI-Driven Influenza Forecasting using Multi-National Surveillance Data: Observational Retrospective Cohort Study."
 
 1. Data Structure and Preparation
@@ -39,5 +39,6 @@ scikit-learn (Performance metric calculation)
 4. Contributing & License
 
 We welcome contributions to enhance the reproducibility of the study. All code is released under a MIT license.
+
 
 Contact: Chuelwon Lee   Date: November 2025
